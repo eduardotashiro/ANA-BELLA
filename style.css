@@ -7,7 +7,8 @@ body{
     background-size: 300px;;
     font: 15px Arial, Helvetica;
     font-weight: bold;
-    background-image: url(/imagens/fundinho.jpg);    
+    background-image: url(/imagens/fundinho.jpg);  
+   
 }
 
 #principal{
@@ -42,7 +43,19 @@ a{
     padding: 5px;
 }
 
-img{
+h1{
+    color:#828271;
+    font-size: 1.2 em;
+    padding-bottom: 15px;
+}
+
+.img-campanha{
+    border: 10px double #c3c3ae;
+    margin: 15px;
+    border-radius: 0 50px 0 50px;       
+}
+
+.principal-img{    
     border-radius: 0 0 30px 30px;
     margin-bottom: 0;
 }
