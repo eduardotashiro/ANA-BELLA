@@ -7,7 +7,7 @@ body{
     background-size: 300px;;
     font: 15px Arial, Helvetica;
     font-weight: bold;
-    background-image: url(/imagens/fundinho.jpg);  
+    background-image: url(imagens/fundinho.jpg);  
 }
 
 #principal{
