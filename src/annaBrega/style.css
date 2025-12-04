@@ -1,0 +1,75 @@
+*{
+    margin: 0;      
+}
+
+body{
+    background: #d2d2c1;
+    background-size: 300px;;
+    font: 15px Arial, Helvetica;
+    font-weight: bold;
+    background-image: url(imagens/fundinho.jpg);  
+}
+
+#principal{
+    width: 900px; 
+    text-align: center;
+    margin: 0 auto;
+}
+
+#menu{
+    background-color: #c4c4c4;
+    padding: 18px;
+    border-radius:50px;  
+}
+
+.paralelo{
+   text-align: left;
+    margin-right: 100px;
+   
+}
+
+#conteudo{
+    background-color: #e8e8d9;
+    padding: 10px;
+    border-radius:50px 50px 0 0; 
+    margin-top: 4px;
+}
+
+#rodape{
+    background-color: #c4c4c4;
+    padding: 10px;
+    border-radius:0 0 50px 50px ; 
+}
+
+a{
+    color: #4b566a;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px;
+    border-radius: 20px;
+}
+
+h1{
+    color:#828271;
+    font-size: 1.2 em;
+    padding-bottom: 15px;
+}
+
+.img-campanha{
+    border: 10px double #c3c3ae;
+    margin: 15px;
+    border-radius: 0 50px 0 50px;       
+}
+
+.principal-img{    
+    border-radius: 30px 30px 30px 30px;
+    margin-bottom: 0;
+}
+
+a:hover{
+    box-shadow: 0 0 15px #4b566a;
+    transform:scale(1.1)
+}
+
+
+
