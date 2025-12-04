@@ -22,6 +22,12 @@ body{
     border-radius:50px;  
 }
 
+.paralelo{
+   text-align: left;
+    margin-right: 100px;
+   
+}
+
 #conteudo{
     background-color: #e8e8d9;
     padding: 10px;
@@ -56,7 +62,7 @@ h1{
 }
 
 .principal-img{    
-    border-radius: 0 0 30px 30px;
+    border-radius: 30px 30px 30px 30px;
     margin-bottom: 0;
 }
 
